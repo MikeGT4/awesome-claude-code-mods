@@ -78,6 +78,7 @@ magiclin99/buddy-go
 ManuelWarland/claude-codex-pane
 MarcoCarnevali/claude-code-mods
 mertkayacs/ultramod
+MikeGT4/agent-tree
 moduvoice/claude-code-ko-ui
 MohammedSaud404/rtl-terminal
 Mucida/critical-decisions
