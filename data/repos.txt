@@ -418,6 +418,7 @@ bogdanbatranut/bog-mods
 Boom-Vitt/boombignose-mods
 Boom-Vitt/claude-mods-boombignose
 borabiricik/claude-mods
+BordyV/brainrot-break
 Borgerod/claude-files-office
 BorjaGM1/token-printer
 bostonaholic/claude-mods
@@ -1241,7 +1242,6 @@ im-adarsh/claude-mods
 im-ksc/ks-claude-code-mods
 imakarov/claude-copy-blocks
 imgidedin/claude-mod-limits-left
-imMamdouhaboammar/get-fable
 imsalik/claude-mods
 imsungbin/quackpit-mod
 ImTBY/clawd-quest
